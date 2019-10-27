@@ -5,7 +5,7 @@ end
 
 def my_hash
   my_hash = {
-    "apples => 10"
+    "apples" => 10
   }
 end
 
